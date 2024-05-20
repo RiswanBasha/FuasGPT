@@ -15,7 +15,7 @@ This project is a Retrieval-Augmented Generation (RAG) chatbot designed to answe
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/RiswanBasha/FUAS_ChatBot.git
+   git clone https://github.com/RiswanBasha/FuasGPT.git
    cd [folder]
    ```
 2. **Set Up a Virtual Environment**
