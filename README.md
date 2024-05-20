@@ -1,4 +1,4 @@
-# Frankfurt University of Applied Sciences Chatbot
+# Frankfurt University of Applied Sciences GPT (FuasGPT)
 
 This project is a Retrieval-Augmented Generation (RAG) chatbot designed to answer questions about Frankfurt University of Applied Sciences. The chatbot leverages natural language processing, a document retrieval system, and predefined responses to provide accurate and relevant answers to user queries.
 
